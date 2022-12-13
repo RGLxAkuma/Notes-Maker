@@ -1,0 +1,50 @@
+form
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 10px;
+    background-color: #0D0E12;
+    padding: 30px;
+    border-radius: 15px;
+    
+}
+
+label
+{
+    color: #E1E6F0;
+    font-size: 1.3em;
+}
+
+#text
+{
+    border: none;
+    color: #B0B5C0;
+    background-color: #202328;
+    width: 50vw;
+    height: 20vh;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+#title
+{
+    border: none;
+    border-radius: 8px;
+    color: #B0B5C0;
+    background-color: #202328;
+    width: 30vw;
+    padding: 10px;
+}
+
+form button
+{
+    padding: 15px;
+    font-size: 1em;
+    border-radius: 8px;
+    color: #E1E6F0;
+    border: none;
+    background-color: #2E4F90;
+    cursor: pointer;
+}

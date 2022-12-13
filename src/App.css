@@ -1,0 +1,21 @@
+.App
+{
+  background-color: #0D0E12;
+  min-height: 100vh;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-left: 50px;
+  
+}
+.title__main
+{
+  width: 100vw;
+  text-align: center;
+}
+.App h1
+{
+  color: #E1E6F0;
+  font-size: 4em;
+}
