@@ -4,7 +4,7 @@ Developed ”Notes Maker,” a powerful note-taking tool, utilizing React.js and
 
 Website Link - https://statuesque-kashata-f986bc.netlify.app/
 
-#### Clone the repository.
+## Clone the repository.
 
 Install the following step-by-step in order to get a development environment up and running.
 
