@@ -1,48 +1,61 @@
-# Getting Started with Create React App
+# NOTES MAKER
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Developed ”Notes Maker,” a powerful note-taking tool, utilizing React.js and Typescript.Demonstrated proficiency in Typescript concepts, including base types, arrays, object types, type interface, function type, generics, props, and data models during the project.
 
-Website Link - https://statuesque-kashata-f986bc.netlify.app
+Website Link - https://statuesque-kashata-f986bc.netlify.app/
 
-## Available Scripts
+#### Clone the repository.
 
-In the project directory, you can run:
+Install the following step-by-step in order to get a development environment up and running.
 
-### `npm start`
+###### SSH
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+```
+git clone git@github.com:RGLxAkuma/Notes-Maker.git
+```
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+###### HTTPS
 
-### `npm test`
+```
+git clone https://github.com/RGLxAkuma/Notes-Maker.git
+```
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+###### GitHub CLI
 
-### `npm run build`
+```
+gh repo clone RGLxAkuma/Notes-Maker
+```
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+##### Install npx if not already installed - This can be used to run react using the local version.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```
+npm i -g npx
+```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Execute the following commands :
 
-### `npm run eject`
+```
+cd Notes-Maker
+npm i
+```
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Running the web app locally
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Open two terminal windows and locate to Notes-Maker in the terminal.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+In the terminal where you navigated to Notes-Maker folder execute the following command :
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+```
+npm start
+```
 
-## Learn More
+> React will listen to port 3000 by default
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Built With
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/learn) - Frontend web application framework
+- [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/docs/) - Programming language
+
+## Authors
+
+- **Prathamesh Jondhale** -[RGLxAkuma](https://github.com/RGLxAkuma)
